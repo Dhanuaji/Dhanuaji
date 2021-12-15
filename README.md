@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Dhanuaji
 - 👀 I’m interested in Web Development and Mobile App Development
-- 🌱 I’m currently learning Spring Boot and React.Js
+- 🌱 I’m currently learning Spring Boot and React.Js, Already about 1 year above learning Web Development. Wanna reach GOD level of Software Production
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
